@@ -6,7 +6,6 @@ This project explores the Wisconsin Breast Cancer Dataset using Python, Pandas, 
 
 The objective is to perform Exploratory Data Analysis (EDA) to identify the characteristics that are most strongly associated with malignant (cancerous) and benign (non-cancerous) tumors.
 
-Rather than building a machine learning model, this project focuses on understanding the data through statistical analysis and visualizations.
 
 ---
 
